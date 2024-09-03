@@ -13,5 +13,6 @@ ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 60 L11 Assignment #01
 ZCZC W01 05 L07 Demo related
 ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W00 10 L41 TXT/mylog.txt related
-
+ZCZC W01 10 L41 TXT/mylog.txt related
+ZCZC W01 10 L11 Assignment #01
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
