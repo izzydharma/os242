@@ -223,3 +223,34 @@ git status
 git add -A
 git status
 git commit 
+git status
+git add -A
+git status
+git commit -m "update"
+git status
+git pull
+git pull origin main
+git status
+git pull
+git pull origin main
+git pull
+git pull origin main
+cd $HOME/git/os242/TXT/
+git pull
+vi mylog.txt
+cat mylog.txt
+git add .
+git commit -m "os242 izzydharma UPDATE mylog.txt"
+git push
+git status
+git push
+chmod 600 ~/.ssh/id_ed25519
+ls -l ~/.ssh/id_ed25519
+git push
+git pull
+git status
+git push
+cat $HOME/.gitconfig
+- su
+- us
+su -

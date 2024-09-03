@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1725334521,,"wq"
+|2,0,1725358935,,"wq"
+:wp
+|2,0,1725358913,,"wp"
 
 # Search String History (newest to oldest):
 
@@ -34,42 +36,54 @@
 	update
 |3,0,1,1,8,0,1725358687,"#","# On branch main","# Changes to be committed:","#	modified:   .bash_history","#	new file:   .mylog.txt.swp","#	modified:   .viminfo","#	modified:   git/os242","update"
 ""-	CHAR	0
-	# 
-|3,1,36,0,1,0,1725358688,"# "
+	l
+|3,1,36,0,1,0,1725358904,"l"
 
 # File marks:
-'0  3  64  ~/.git/COMMIT_EDITMSG
-|4,48,3,64,1725358697,"~/.git/COMMIT_EDITMSG"
-'1  17  0  ~/git/os242/TXT/mylog.txt
-|4,49,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
+'0  18  66  ~/git/os242/TXT/mylog.txt
+|4,48,18,66,1725358935,"~/git/os242/TXT/mylog.txt"
+'1  3  64  ~/.git/COMMIT_EDITMSG
+|4,49,3,64,1725358697,"~/.git/COMMIT_EDITMSG"
 '2  17  0  ~/git/os242/TXT/mylog.txt
 |4,50,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
-'3  1  0  ~/mylog.txt
-|4,51,1,0,1725334076,"~/mylog.txt"
-'4  1  0  ~/mylog.txt
-|4,52,1,0,1725334076,"~/mylog.txt"
-'5  15  0  ~/git/os242/TXT/mylog.txt
-|4,53,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
-'6  15  0  ~/git/os242/TXT/mylog.txt
-|4,54,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
-'7  15  0  ~/git/os242/TXT/mylog.txt
-|4,55,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
+'3  17  0  ~/git/os242/TXT/mylog.txt
+|4,51,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
+'4  17  0  ~/git/os242/TXT/mylog.txt
+|4,52,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
+'5  17  0  ~/git/os242/TXT/mylog.txt
+|4,53,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
+'6  1  0  ~/mylog.txt
+|4,54,1,0,1725334076,"~/mylog.txt"
+'7  1  0  ~/mylog.txt
+|4,55,1,0,1725334076,"~/mylog.txt"
 '8  15  0  ~/git/os242/TXT/mylog.txt
 |4,56,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
-'9  15  67  ~/git/os242/TXT/mylog.txt
-|4,57,15,67,1725297724,"~/git/os242/TXT/mylog.txt"
+'9  15  0  ~/git/os242/TXT/mylog.txt
+|4,57,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
 
 # Jumplist (newest first):
+-'  18  66  ~/git/os242/TXT/mylog.txt
+|4,39,18,66,1725358935,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725358855,"~/git/os242/TXT/mylog.txt"
+-'  3  64  ~/.git/COMMIT_EDITMSG
+|4,39,3,64,1725358697,"~/.git/COMMIT_EDITMSG"
 -'  3  64  ~/.git/COMMIT_EDITMSG
 |4,39,3,64,1725358697,"~/.git/COMMIT_EDITMSG"
 -'  4  5  ~/.git/COMMIT_EDITMSG
 |4,39,4,5,1725358687,"~/.git/COMMIT_EDITMSG"
+-'  4  5  ~/.git/COMMIT_EDITMSG
+|4,39,4,5,1725358687,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725358665,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1725358665,"~/.git/COMMIT_EDITMSG"
 -'  17  0  ~/git/os242/TXT/mylog.txt
 |4,39,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
 -'  17  0  ~/git/os242/TXT/mylog.txt
 |4,39,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
+-'  17  0  ~/git/os242/TXT/mylog.txt
+|4,39,17,0,1725334521,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
 |4,39,1,0,1725334352,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
@@ -80,6 +94,14 @@
 |4,39,1,0,1725334076,"~/mylog.txt"
 -'  1  0  ~/mylog.txt
 |4,39,1,0,1725334076,"~/mylog.txt"
+-'  1  0  ~/mylog.txt
+|4,39,1,0,1725334076,"~/mylog.txt"
+-'  1  0  ~/mylog.txt
+|4,39,1,0,1725334076,"~/mylog.txt"
+-'  1  0  ~/mylog.txt
+|4,39,1,0,1725334076,"~/mylog.txt"
+-'  15  0  ~/git/os242/TXT/mylog.txt
+|4,39,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
 -'  15  0  ~/git/os242/TXT/mylog.txt
 |4,39,15,0,1725298028,"~/git/os242/TXT/mylog.txt"
 -'  15  0  ~/git/os242/TXT/mylog.txt
@@ -103,18 +125,11 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/COMMIT_EDITMSG
-	*	1725358695	0
-	"	3	64
-	.	3	0
-	+	4	0
-	+	3	0
-
 > ~/git/os242/TXT/mylog.txt
-	*	1725334519	0
-	"	17	0
-	^	17	0
-	.	17	0
+	*	1725358918	0
+	"	18	66
+	^	18	68
+	.	18	67
 	+	1	0
 	+	11	30
 	+	15	0
@@ -122,7 +137,18 @@
 	+	16	10
 	+	15	0
 	+	14	27
-	+	17	0
+	+	17	30
+	+	18	7
+	+	17	7
+	+	16	7
+	+	18	67
+
+> ~/.git/COMMIT_EDITMSG
+	*	1725358695	0
+	"	3	64
+	.	3	0
+	+	4	0
+	+	3	0
 
 > ~/mylog.txt
 	*	1725334065	0
