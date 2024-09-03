@@ -185,3 +185,41 @@ git add .gitconfig
 git status
 git commit -m "add gitconfig"
 git status
+vi mylog.txt
+cd $HOME/git/os242/TXT/
+git pull
+git add .
+git commit -m 
+git commit -m "adding"
+git pull
+git push
+git status
+git push
+chmod 600 ~/.ssh/id_ed25519
+Run the following command to set the correct permissions for your SSH private key file:
+ls -l ~/.ssh/id_ed25519
+ssh -T git@github.com
+git push
+git status
+git pull
+git status
+git rm TXT/.mylog.txt.swp
+git rm .mylog.txt.swp
+git status
+git rebase --continue
+git pull
+vi mylog.txt
+sleep 1
+cat mylog.txt
+git status
+git add -A
+git status
+git commit -m "os242 izzydharma UPDATE mylog.txt"
+git push
+ssh -T git@github.com 
+ssh -T git@github.com
+git pull
+git status
+git add -A
+git status
+git commit 
