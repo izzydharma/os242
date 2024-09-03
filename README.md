@@ -5,7 +5,7 @@
 
 Sistem Operasi 2024-2 (Semester Ganjil 2024/2025)
 
---- [LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/izzydharma/os242)
+--- [LINKS](links/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/izzydharma/os242)
 
 
 ```
