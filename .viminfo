@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1726014114,,"wq"
+=======
+|2,0,1725974415,,"wq"
+>>>>>>> 6c93a07 (revert)
 :q
 |2,0,1725558486,,"q"
 :w
@@ -44,6 +48,7 @@
 |3,0,36,0,1,0,1725379694,"M"
 
 # File marks:
+<<<<<<< HEAD
 '0  1  12  ~/.viminfo
 |4,48,1,12,1726014114,"~/.viminfo"
 '1  358  0  ~/.viminfo
@@ -70,6 +75,74 @@
 |4,39,1,12,1726014114,"~/.viminfo"
 -'  358  0  ~/.viminfo
 |4,39,358,0,1726013571,"~/.viminfo"
+=======
+'0  20  0  ~/.git/COMMIT_EDITMSG
+|4,48,20,0,1725974415,"~/.git/COMMIT_EDITMSG"
+'1  21  46  ~/TXT/mylog.txt
+|4,49,21,46,1725974263,"~/TXT/mylog.txt"
+'2  22  0  ~/TXT/mylog.txt
+|4,50,22,0,1725974067,"~/TXT/mylog.txt"
+'3  334  5  ~/.viminfo
+|4,51,334,5,1725974031,"~/.viminfo"
+'4  1  0  ~/.git/COMMIT_EDITMSG
+|4,52,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.git/COMMIT_EDITMSG
+|4,53,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+'6  23  0  ~/.git/COMMIT_EDITMSG
+|4,54,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+'7  23  0  ~/.git/COMMIT_EDITMSG
+|4,55,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+'8  23  0  ~/.git/COMMIT_EDITMSG
+|4,56,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+'9  23  0  ~/.git/COMMIT_EDITMSG
+|4,57,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+
+# Jumplist (newest first):
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1725974415,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725974406,"~/.git/COMMIT_EDITMSG"
+-'  21  46  ~/TXT/mylog.txt
+|4,39,21,46,1725974263,"~/TXT/mylog.txt"
+-'  21  46  ~/TXT/mylog.txt
+|4,39,21,46,1725974263,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974241,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974241,"~/TXT/mylog.txt"
+-'  22  0  ~/TXT/mylog.txt
+|4,39,22,0,1725974067,"~/TXT/mylog.txt"
+-'  22  0  ~/TXT/mylog.txt
+|4,39,22,0,1725974067,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974061,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974061,"~/TXT/mylog.txt"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  334  5  ~/.viminfo
+|4,39,334,5,1725974031,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1725973741,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1725973741,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1725973741,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1725973741,"~/.viminfo"
+>>>>>>> 6c93a07 (revert)
 -'  1  0  ~/.viminfo
 |4,39,1,0,1726013551,"~/.viminfo"
 -'  69  25  ~/.viminfo
@@ -97,7 +170,125 @@
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
+<<<<<<< HEAD
 |4,39,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
+=======
+|4,39,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/.git/COMMIT_EDITMSG
+|4,39,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725973152,"~/.git/COMMIT_EDITMSG"
+-'  17  67  ~/TXT/mylog.txt
+|4,39,17,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  17  67  ~/TXT/mylog.txt
+|4,39,17,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  18  67  ~/TXT/mylog.txt
+|4,39,18,67,1725973137,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+>>>>>>> 6c93a07 (revert)
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012250,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -113,6 +304,7 @@
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012250,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
+<<<<<<< HEAD
 |4,39,1,0,1726012250,"~/TXT/mylog.txt"
 -'  22  46  ~/TXT/mylog.txt
 |4,39,22,46,1726012236,"~/TXT/mylog.txt"
@@ -269,6 +461,41 @@
 
 # History of marks within files (newest to oldest):
 
+=======
+|4,39,1,0,1725972989,"~/TXT/mylog.txt"
+-'  72  0  ~/.git/COMMIT_EDITMSG
+|4,39,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+-'  72  0  ~/.git/COMMIT_EDITMSG
+|4,39,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+-'  72  0  ~/.git/COMMIT_EDITMSG
+|4,39,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+-'  72  0  ~/.git/COMMIT_EDITMSG
+|4,39,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+-'  72  0  ~/.git/COMMIT_EDITMSG
+|4,39,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+
+# History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1725974415	0
+	"	20	0
+	.	3	0
+	+	4	0
+	+	3	0
+
+> ~/TXT/mylog.txt
+	*	1725974262	0
+	"	21	46
+	^	21	47
+	.	22	0
+	+	21	0
+	+	20	47
+	+	21	0
+	+	18	0
+	+	16	0
+	+	22	0
+
+>>>>>>> 6c93a07 (revert)
 > ~/.viminfo
 	*	1726014113	0
 	"	1	12
@@ -294,6 +521,7 @@
 	+	114	0
 	+	47	0
 
+<<<<<<< HEAD
 > ~/.git/COMMIT_EDITMS
 	*	1726012382	0
 
@@ -310,6 +538,8 @@
 	+	25	0
 	+	23	0
 
+=======
+>>>>>>> 6c93a07 (revert)
 > ~/git/os242/TXT/mylog.txt
 	*	1725942855	0
 	"	25	29
