@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1725942855,,"wq"
+|2,0,1726012063,,"wq"
 :q
 |2,0,1725558486,,"q"
 :w
@@ -44,36 +44,80 @@
 |3,1,36,0,1,0,1725379694,"M"
 
 # File marks:
-'0  25  29  ~/git/os242/TXT/mylog.txt
-|4,48,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
-'1  6  12  ~/.git/MERGE_MSG
-|4,49,6,12,1725941670,"~/.git/MERGE_MSG"
-'2  24  7  ~/git/os242/TXT/mylog.txt
-|4,50,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
-'3  24  7  ~/git/os242/TXT/mylog.txt
-|4,51,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
-'4  1  0  ~/git/os242/TXT/mylog.txt
-|4,52,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
-'5  1  0  ~/git/os242/TXT/mylog.txt
-|4,53,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
-'6  1  0  ~/git/os242/TXT/mylog.txt
-|4,54,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+'0  1  0  ~/TXT/mylog.txt
+|4,48,1,0,1726012063,"~/TXT/mylog.txt"
+'1  19  67  ~/TXT/mylog.txt
+|4,49,19,67,1726012051,"~/TXT/mylog.txt"
+'2  19  67  ~/TXT/mylog.txt
+|4,50,19,67,1726012051,"~/TXT/mylog.txt"
+'3  25  29  ~/git/os242/TXT/mylog.txt
+|4,51,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+'4  6  12  ~/.git/MERGE_MSG
+|4,52,6,12,1725941670,"~/.git/MERGE_MSG"
+'5  24  7  ~/git/os242/TXT/mylog.txt
+|4,53,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+'6  24  7  ~/git/os242/TXT/mylog.txt
+|4,54,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
 '7  1  0  ~/git/os242/TXT/mylog.txt
 |4,55,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
-'8  3  0  ~/git/os242/.git/MERGE_MSG
-|4,56,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
-'9  22  7  ~/git/os242/TXT/mylog.txt
-|4,57,22,7,1725558084,"~/git/os242/TXT/mylog.txt"
+'8  1  0  ~/git/os242/TXT/mylog.txt
+|4,56,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+'9  1  0  ~/git/os242/TXT/mylog.txt
+|4,57,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012063,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012022,"~/TXT/mylog.txt"
 -'  25  29  ~/git/os242/TXT/mylog.txt
 |4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+-'  25  29  ~/git/os242/TXT/mylog.txt
+|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+-'  25  29  ~/git/os242/TXT/mylog.txt
+|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+-'  25  29  ~/git/os242/TXT/mylog.txt
+|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725942825,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725942825,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725942825,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
 |4,39,1,0,1725942825,"~/git/os242/TXT/mylog.txt"
 -'  6  12  ~/.git/MERGE_MSG
 |4,39,6,12,1725941670,"~/.git/MERGE_MSG"
 -'  6  12  ~/.git/MERGE_MSG
 |4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1725941670,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725941652,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1725941652,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
@@ -84,10 +128,52 @@
 |4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
 -'  24  7  ~/git/os242/TXT/mylog.txt
 |4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
+-'  24  7  ~/git/os242/TXT/mylog.txt
+|4,39,24,7,1725762247,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
 |4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
 |4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725762207,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/git/os242/TXT/mylog.txt
+|4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
 |4,39,1,0,1725558517,"~/git/os242/TXT/mylog.txt"
 -'  1  0  ~/git/os242/TXT/mylog.txt
@@ -124,150 +210,73 @@
 |4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
 -'  3  0  ~/git/os242/.git/MERGE_MSG
 |4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  1  0  ~/git/os242/.git/MERGE_MSG
-|4,39,1,0,1725558477,"~/git/os242/.git/MERGE_MSG"
--'  22  7  ~/git/os242/TXT/mylog.txt
-|4,39,22,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  22  7  ~/git/os242/TXT/mylog.txt
-|4,39,22,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  22  7  ~/git/os242/TXT/mylog.txt
-|4,39,22,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  21  7  ~/git/os242/TXT/mylog.txt
-|4,39,21,7,1725558084,"~/git/os242/TXT/mylog.txt"
--'  1  0  ~/git/os242/TXT/mylog.txt
-|4,39,1,0,1725558010,"~/git/os242/TXT/mylog.txt"
--'  1  0  ~/git/os242/TXT/mylog.txt
-|4,39,1,0,1725558010,"~/git/os242/TXT/mylog.txt"
--'  1  0  ~/git/os242/TXT/mylog.txt
-|4,39,1,0,1725558010,"~/git/os242/TXT/mylog.txt"
--'  1  0  ~/git/os242/TXT/mylog.txt
-|4,39,1,0,1725558010,"~/git/os242/TXT/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
--'  1  0  ~/git/os242/mylog.txt
-|4,39,1,0,1725557975,"~/git/os242/mylog.txt"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
+-'  3  0  ~/git/os242/.git/MERGE_MSG
+|4,39,3,0,1725558486,"~/git/os242/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/TXT/mylog.txt
+	*	1726012063	0
+	"	1	0
+	^	19	68
+	.	20	0
+	+	2	0
+	+	25	0
+	+	20	0
 
 > ~/git/os242/TXT/mylog.txt
 	*	1725942855	0
