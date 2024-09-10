@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1726012334,,"wq"
+|2,0,1726012383,,"wq"
 :q
 |2,0,1725558486,,"q"
 :w
@@ -45,33 +45,39 @@
 
 # File marks:
 '0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/TXT/mylog.txt
-|4,49,1,0,1726012250,"~/TXT/mylog.txt"
-'2  22  46  ~/TXT/mylog.txt
-|4,50,22,46,1726012236,"~/TXT/mylog.txt"
+|4,48,1,0,1726012383,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/TXT/mylog.txt
+|4,50,1,0,1726012250,"~/TXT/mylog.txt"
 '3  22  46  ~/TXT/mylog.txt
 |4,51,22,46,1726012236,"~/TXT/mylog.txt"
-'4  29  0  ~/.git/COMMIT_EDITMSG
-|4,52,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
+'4  22  46  ~/TXT/mylog.txt
+|4,52,22,46,1726012236,"~/TXT/mylog.txt"
 '5  29  0  ~/.git/COMMIT_EDITMSG
 |4,53,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
-'6  1  0  ~/TXT/mylog.txt
-|4,54,1,0,1726012063,"~/TXT/mylog.txt"
-'7  1  0  ~/TXT/mylog.txt
-|4,55,1,0,1726012063,"~/TXT/mylog.txt"
-'8  1  0  ~/TXT/mylog.txt
-|4,56,1,0,1726012063,"~/TXT/mylog.txt"
-'9  19  67  ~/TXT/mylog.txt
-|4,57,19,67,1726012051,"~/TXT/mylog.txt"
+'6  29  0  ~/.git/COMMIT_EDITMSG
+|4,54,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
+'7  29  0  ~/.git/COMMIT_EDITMSG
+|4,55,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
+'8  29  0  ~/.git/COMMIT_EDITMSG
+|4,56,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
+'9  1  0  ~/TXT/mylog.txt
+|4,57,1,0,1726012063,"~/TXT/mylog.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1726012383,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012250,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012250,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012250,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012250,"~/TXT/mylog.txt"
 -'  22  46  ~/TXT/mylog.txt
 |4,39,22,46,1726012236,"~/TXT/mylog.txt"
 -'  22  46  ~/TXT/mylog.txt
@@ -80,6 +86,18 @@
 |4,39,22,46,1726012236,"~/TXT/mylog.txt"
 -'  22  46  ~/TXT/mylog.txt
 |4,39,22,46,1726012236,"~/TXT/mylog.txt"
+-'  22  46  ~/TXT/mylog.txt
+|4,39,22,46,1726012236,"~/TXT/mylog.txt"
+-'  22  46  ~/TXT/mylog.txt
+|4,39,22,46,1726012236,"~/TXT/mylog.txt"
+-'  22  46  ~/TXT/mylog.txt
+|4,39,22,46,1726012236,"~/TXT/mylog.txt"
+-'  22  46  ~/TXT/mylog.txt
+|4,39,22,46,1726012236,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012215,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012215,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012215,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -94,6 +112,8 @@
 |4,39,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
 -'  29  0  ~/.git/COMMIT_EDITMSG
 |4,39,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
+-'  29  0  ~/.git/COMMIT_EDITMSG
+|4,39,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1726012181,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -102,6 +122,14 @@
 |4,39,1,0,1726012181,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1726012181,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012063,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012063,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012063,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012063,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012063,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -134,6 +162,30 @@
 |4,39,19,67,1726012051,"~/TXT/mylog.txt"
 -'  19  67  ~/TXT/mylog.txt
 |4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
+-'  19  67  ~/TXT/mylog.txt
+|4,39,19,67,1726012051,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012022,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -142,66 +194,14 @@
 |4,39,1,0,1726012022,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1726012022,"~/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012022,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012022,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012022,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1726012022,"~/TXT/mylog.txt"
 -'  25  29  ~/git/os242/TXT/mylog.txt
 |4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
 -'  25  29  ~/git/os242/TXT/mylog.txt
@@ -270,7 +270,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1726012332	0
+	*	1726012382	0
 	"	1	0
 	.	3	0
 	+	4	0
