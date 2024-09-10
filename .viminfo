@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1726012383,,"wq"
+|2,0,1726012738,,"wq"
 :q
 |2,0,1725558486,,"q"
 :w
@@ -39,33 +39,37 @@
 	#	modified:   git/os242
 	update
 |3,0,1,1,8,0,1725358687,"#","# On branch main","# Changes to be committed:","#	modified:   .bash_history","#	new file:   .mylog.txt.swp","#	modified:   .viminfo","#	modified:   git/os242","update"
-""-	CHAR	0
+"-	CHAR	0
 	M
-|3,1,36,0,1,0,1725379694,"M"
+|3,0,36,0,1,0,1725379694,"M"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1726012383,"~/.git/COMMIT_EDITMSG"
+'0  509  4  ~/.viminfo
+|4,48,509,4,1726012738,"~/.viminfo"
 '1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1726012334,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/TXT/mylog.txt
-|4,50,1,0,1726012250,"~/TXT/mylog.txt"
-'3  22  46  ~/TXT/mylog.txt
-|4,51,22,46,1726012236,"~/TXT/mylog.txt"
-'4  22  46  ~/TXT/mylog.txt
-|4,52,22,46,1726012236,"~/TXT/mylog.txt"
-'5  29  0  ~/.git/COMMIT_EDITMSG
-|4,53,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
-'6  29  0  ~/.git/COMMIT_EDITMSG
-|4,54,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
-'7  29  0  ~/.git/COMMIT_EDITMSG
-|4,55,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
-'8  29  0  ~/.git/COMMIT_EDITMSG
-|4,56,29,0,1726012187,"~/.git/COMMIT_EDITMSG"
-'9  1  0  ~/TXT/mylog.txt
-|4,57,1,0,1726012063,"~/TXT/mylog.txt"
+|4,49,1,0,1725973221,"~/.git/COMMIT_EDITMSG"
+'2  23  0  ~/.git/COMMIT_EDITMSG
+|4,50,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+'3  23  0  ~/.git/COMMIT_EDITMSG
+|4,51,23,0,1725973159,"~/.git/COMMIT_EDITMSG"
+'4  18  67  ~/TXT/mylog.txt
+|4,52,18,67,1725973137,"~/TXT/mylog.txt"
+'5  72  0  ~/.git/COMMIT_EDITMSG
+|4,53,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+'6  72  0  ~/.git/COMMIT_EDITMSG
+|4,54,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+'7  72  0  ~/.git/COMMIT_EDITMSG
+|4,55,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+'8  72  0  ~/.git/COMMIT_EDITMSG
+|4,56,72,0,1725972902,"~/.git/COMMIT_EDITMSG"
+'9  25  29  ~/git/os242/TXT/mylog.txt
+|4,57,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
 
 # Jumplist (newest first):
+-'  509  4  ~/.viminfo
+|4,39,509,4,1726012738,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1726012645,"~/.viminfo"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1726012383,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -262,19 +266,27 @@
 |4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
 -'  25  29  ~/git/os242/TXT/mylog.txt
 |4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
--'  25  29  ~/git/os242/TXT/mylog.txt
-|4,39,25,29,1725942855,"~/git/os242/TXT/mylog.txt"
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/COMMIT_EDITMSG
+> >>>>>> b0d8ba1 (Save changes to .viminfo before reverting)
+
+> ~/.viminfo
+	*	1726012738	0
+	"	509	4
+	^	509	5
+	.	496	22
+	+	15	0
+	+	16	0
+	+	15	21
+	+	16	0
+	+	511	0
+	+	500	0
+	+	498	0
+	+	496	22
+
+> ~/.git/COMMIT_EDITMS
 	*	1726012382	0
-	"	1	0
-	.	3	0
-	+	4	0
-	+	3	0
 
 > ~/TXT/mylog.txt
 	*	1726012247	0
