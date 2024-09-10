@@ -1,0 +1,3 @@
+3ba150b736004eb99cff6e928f3c12e5  id_ed25519
+9edd9393a429ed1ee492dcbdcd0216c1  id_ed25519.pub
+5e02c6efdb24aa9d43636bccb2d76f23  mySECRETgnupgKEY.asc
