@@ -18,6 +18,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 |2,0,1726014114,,"wq"
 =======
 |2,0,1725974415,,"wq"
@@ -37,6 +38,9 @@
 =======
 |2,0,1725975533,,"wq"
 >>>>>>> 6e18630 (Revert "add gitconfig")
+=======
+|2,0,1725975880,,"wq"
+>>>>>>> 86ea658 (revert)
 :q
 |2,0,1725558486,,"q"
 :w
@@ -205,28 +209,38 @@
 >>>>>>> 83d1fec (Revert "update")
 =======
 '0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1725975533,"~/.git/COMMIT_EDITMSG"
+|4,48,1,0,1725975880,"~/.git/COMMIT_EDITMSG"
 '1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1725975524,"~/.git/COMMIT_EDITMSG"
+|4,49,1,0,1725975533,"~/.git/COMMIT_EDITMSG"
 '2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
+|4,50,1,0,1725975524,"~/.git/COMMIT_EDITMSG"
 '3  1  0  ~/.git/COMMIT_EDITMSG
-|4,51,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
-'4  1  11  ~/.viminfo
-|4,52,1,11,1725975459,"~/.viminfo"
-'5  15  67  ~/TXT/mylog.txt
-|4,53,15,67,1725974950,"~/TXT/mylog.txt"
+|4,51,1,0,1725975524,"~/.git/COMMIT_EDITMSG"
+'4  1  0  ~/.git/COMMIT_EDITMSG
+|4,52,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.git/COMMIT_EDITMSG
+|4,53,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
 '6  1  0  ~/.git/COMMIT_EDITMSG
-|4,54,1,0,1725974765,"~/.git/COMMIT_EDITMSG"
+|4,54,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
 '7  1  0  ~/.git/COMMIT_EDITMSG
+<<<<<<< HEAD
 |4,55,1,0,1725974765,"~/.git/COMMIT_EDITMSG"
 '8  1  0  ~/.git/COMMIT_EDITMSG
 |4,56,1,0,1725974765,"~/.git/COMMIT_EDITMSG"
 '9  1  0  ~/.git/COMMIT_EDITMSG
 |4,57,1,0,1725974765,"~/.git/COMMIT_EDITMSG"
 >>>>>>> 6e18630 (Revert "add gitconfig")
+=======
+|4,55,1,0,1725975500,"~/.git/COMMIT_EDITMSG"
+'8  1  11  ~/.viminfo
+|4,56,1,11,1725975459,"~/.viminfo"
+'9  15  67  ~/TXT/mylog.txt
+|4,57,15,67,1725974950,"~/TXT/mylog.txt"
+>>>>>>> 86ea658 (revert)
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725975880,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1725975533,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -249,6 +263,22 @@
 |4,39,1,11,1725975459,"~/.viminfo"
 -'  1  11  ~/.viminfo
 |4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
 -'  15  67  ~/TXT/mylog.txt
 |4,39,15,67,1725974950,"~/TXT/mylog.txt"
 -'  15  67  ~/TXT/mylog.txt
@@ -265,6 +295,38 @@
 |4,39,15,67,1725974950,"~/TXT/mylog.txt"
 -'  15  67  ~/TXT/mylog.txt
 |4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  15  67  ~/TXT/mylog.txt
+|4,39,15,67,1725974950,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
+-'  1  0  ~/TXT/mylog.txt
+|4,39,1,0,1725974927,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
 |4,39,1,0,1725974927,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -349,6 +411,7 @@
 |4,39,193,0,1725974723,"~/.viminfo"
 -'  193  0  ~/.viminfo
 |4,39,193,0,1725974723,"~/.viminfo"
+<<<<<<< HEAD
 -'  1  0  ~/.viminfo
 |4,39,1,0,1725974521,"~/.viminfo"
 -'  1  0  ~/.viminfo
@@ -930,11 +993,41 @@
 -'  20  0  ~/.git/COMMIT_EDITMSG
 |4,39,20,0,1725974415,"~/.git/COMMIT_EDITMSG"
 >>>>>>> 6e18630 (Revert "add gitconfig")
+=======
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+-'  193  0  ~/.viminfo
+|4,39,193,0,1725974723,"~/.viminfo"
+>>>>>>> 86ea658 (revert)
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1725975533	0
+	*	1725975879	0
 	"	1	0
 	.	3	0
 	+	4	0
