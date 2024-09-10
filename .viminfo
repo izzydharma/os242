@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 |2,0,1726014114,,"wq"
 =======
 |2,0,1725974415,,"wq"
@@ -29,6 +30,9 @@
 =======
 |2,0,1725974950,,"wq"
 >>>>>>> a4de5ab (Save changes to .viminfo before reverting)
+=======
+|2,0,1725975459,,"wq"
+>>>>>>> 83d1fec (Revert "update")
 :q
 |2,0,1725558486,,"q"
 :w
@@ -106,6 +110,7 @@
 # File marks:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 '0  193  0  ~/.viminfo
 |4,48,193,0,1725974723,"~/.viminfo"
 '1  20  0  ~/.git/COMMIT_EDITMSG
@@ -171,8 +176,32 @@
 '9  334  5  ~/.viminfo
 |4,57,334,5,1725974031,"~/.viminfo"
 >>>>>>> a4de5ab (Save changes to .viminfo before reverting)
+=======
+'0  1  11  ~/.viminfo
+|4,48,1,11,1725975459,"~/.viminfo"
+'1  15  67  ~/TXT/mylog.txt
+|4,49,15,67,1725974950,"~/TXT/mylog.txt"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1725974765,"~/.git/COMMIT_EDITMSG"
+'3  193  0  ~/.viminfo
+|4,51,193,0,1725974723,"~/.viminfo"
+'4  20  0  ~/.git/COMMIT_EDITMSG
+|4,52,20,0,1725974415,"~/.git/COMMIT_EDITMSG"
+'5  20  0  ~/.git/COMMIT_EDITMSG
+|4,53,20,0,1725974415,"~/.git/COMMIT_EDITMSG"
+'6  20  46  ~/TXT/mylog.txt
+|4,54,20,46,1725974263,"~/TXT/mylog.txt"
+'7  21  46  ~/TXT/mylog.txt
+|4,55,21,46,1725974263,"~/TXT/mylog.txt"
+'8  21  0  ~/TXT/mylog.txt
+|4,56,21,0,1725974067,"~/TXT/mylog.txt"
+'9  22  0  ~/TXT/mylog.txt
+|4,57,22,0,1725974067,"~/TXT/mylog.txt"
+>>>>>>> 83d1fec (Revert "update")
 
 # Jumplist (newest first):
+-'  1  11  ~/.viminfo
+|4,39,1,11,1725975459,"~/.viminfo"
 -'  15  67  ~/TXT/mylog.txt
 |4,39,15,67,1725974950,"~/TXT/mylog.txt"
 -'  1  0  ~/TXT/mylog.txt
@@ -379,6 +408,7 @@
 -'  41  195  ~/.viminfo
 |4,39,41,195,1726013088,"~/.viminfo"
 -'  1  0  ~/.viminfo
+<<<<<<< HEAD
 |4,39,1,0,1726012829,"~/.viminfo"
 -'  509  4  ~/.viminfo
 |4,39,509,4,1726012738,"~/.viminfo"
@@ -701,8 +731,22 @@
 =======
 |4,39,1,0,1725973741,"~/.viminfo"
 >>>>>>> a4de5ab (Save changes to .viminfo before reverting)
+=======
+|4,39,1,0,1725973741,"~/.viminfo"
+>>>>>>> 83d1fec (Revert "update")
 
 # History of marks within files (newest to oldest):
+
+> ~/.viminfo
+	*	1725975459	0
+	"	1	11
+	^	1	12
+	.	32	0
+	+	3	0
+	+	22	0
+	+	15	0
+	+	356	0
+	+	32	0
 
 > ~/TXT/mylog.txt
 	*	1725974950	0
@@ -727,6 +771,7 @@
 	+	4	0
 	+	3	0
 
+<<<<<<< HEAD
 > ~/.viminfo
 	*	1725974722	0
 	"	193	0
@@ -805,6 +850,8 @@
 >>>>>>> d33f142 (Revert "updating")
 =======
 >>>>>>> a4de5ab (Save changes to .viminfo before reverting)
+=======
+>>>>>>> 83d1fec (Revert "update")
 > ~/git/os242/TXT/mylog.txt
 	*	1725942855	0
 	"	25	29
