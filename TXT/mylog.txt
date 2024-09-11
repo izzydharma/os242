@@ -23,3 +23,10 @@ ZCZC W01 30 L05 Quiz related including studying
 ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 30 L12 Assignment #02
 ZCZC W02 30 l12 Assignment #02
+ZCZC W02 30 l12 Assignment #02
+ZCZC W02 10 L23 Bash, Regex, SED, AWK.
+ZCZC W02 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
