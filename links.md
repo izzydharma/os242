@@ -22,6 +22,14 @@ A short introduction video to what the bash shell is, how it works, and what can
 ### [Link 5: Understanding Vi Editor.](https://www.youtube.com/watch?v=pU2k776i2Zw)
 This link contain a video introduction about vi editor, how to use it, what it can do. a good video for new linux users.
 
+### [Link 6: Understanding Virtualization.](https://www.youtube.com/watch?v=FZR0rG3HKIk)
+This link contain a video explaining about virtualization.
+
+### [Link 7: Containers vs VMs: What's the difference?](https://www.youtube.com/watch?v=cjXI-yxqGTI)
+This link contain a video explaining the diffrence between Containers and VMs.
+
+### [Link 7: you need to learn Virtual Machines RIGHT NOW!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
+This link contain a video explaining why we should learn about virtual machines.
 
 <br>
 <hr>
