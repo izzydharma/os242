@@ -28,7 +28,7 @@ This link contain a video explaining about virtualization.
 ### [Link 7: Containers vs VMs: What's the difference?](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 This link contain a video explaining the diffrence between Containers and VMs.
 
-### [Link 7: you need to learn Virtual Machines RIGHT NOW!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
+### [Link 8: you need to learn Virtual Machines RIGHT NOW!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
 This link contain a video explaining why we should learn about virtual machines.
 
 <br>
