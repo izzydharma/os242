@@ -37,6 +37,19 @@ ZCZC W03 30 L09 Assignment in General
 ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 10 L43 TXT/myrank.tex related, including peer review
-ZCZC W03 20 L41 TXT/mylog.txt related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W04 20 L41 TXT/mylog.txt related
+ZCZC W04 95 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 30 L04 GitHub Pages related
+ZCZC W04 265 L05 Studying for Quiz
+ZCZC W04 355 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L07 Demo related
+ZCZC W04 70 L08 OS Chat on WA & LINE with Friends
+ZCZC W04 280 L09 Assignment in General
+ZCZC W04 280 L13 Weekly Assignment #03
+ZCZC W04 55 L22 Linux CLI including tar, etc.
+ZCZC W04 50 L41 TXT/mylog.txt related.
+ZCZC W04 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 20 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 20 L45 TXT/SHA256SUM related

@@ -31,5 +31,11 @@ This link contain a video explaining the diffrence between Containers and VMs.
 ### [Link 8: you need to learn Virtual Machines RIGHT NOW!](https://www.youtube.com/watch?v=wX75Z-4MEoM)
 This link contain a video explaining why we should learn about virtual machines.
 
+### [Link 9:  Virtual Machine (VM) vs Docker](https://www.youtube.com/watch?v=a1M_thDTqmU)
+This link contain a video explaining the diffrence between VM and docker.
+
+### [Link 10 : CS162 Lecture 1: What is an Operating System?](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
+This link contain a video explaining what is an Operating System.
+
 <br>
 <hr>
