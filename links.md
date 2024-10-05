@@ -37,5 +37,11 @@ This link contain a video explaining the diffrence between VM and docker.
 ### [Link 10 : CS162 Lecture 1: What is an Operating System?](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 This link contain a video explaining what is an Operating System.
 
+### [Link 11 : Compiling a C Program: Behind the Scenes](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)
+Explains how a C program is compiled.
+
+### [Link 12 : Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+An article that gives detailed explanation about memory management.
+
 <br>
 <hr>
