@@ -43,5 +43,10 @@ Explains how a C program is compiled.
 ### [Link 12 : Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 An article that gives detailed explanation about memory management.
 
+### [Link 13 : How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU)
+An educational video that delves into the mechanisms of operating systems and their role in managing computer hardware and software.
+
+### [Link 14 : What is Operating System? Full Explanation](https://www.youtube.com/watch?v=_NEJVgiGp8Q)
+This video offers a comprehensive overview of operating systems, detailing their functions and importance in computing
 <br>
 <hr>
