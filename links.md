@@ -48,5 +48,11 @@ An educational video that delves into the mechanisms of operating systems and th
 
 ### [Link 14 : What is Operating System? Full Explanation](https://www.youtube.com/watch?v=_NEJVgiGp8Q)
 This video offers a comprehensive overview of operating systems, detailing their functions and importance in computing
+
+### [Link 15 : Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) 
+Read straight from the source, from Linux Foundation.
+
+### [Link 16 : File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)
+A comprehensive short article about File Systems.
 <br>
 <hr>
