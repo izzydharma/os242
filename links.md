@@ -54,5 +54,11 @@ Read straight from the source, from Linux Foundation.
 
 ### [Link 16 : File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)
 A comprehensive short article about File Systems.
+
+### [Link 17: Virtualization.](https://www.youtube.com/watch?v=UBVVq-xz5i0)
+This link contain a video virtualization.
+
+### [Link 18: Containers](https://www.youtube.com/watch?v=0qotVMX-J5s)
+This link contain a video  between Containers and VMs.
 <br>
 <hr>
