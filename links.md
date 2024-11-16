@@ -60,5 +60,11 @@ This link contain a video virtualization.
 
 ### [Link 18: Containers](https://www.youtube.com/watch?v=0qotVMX-J5s)
 This link contain a video  between Containers and VMs.
+
+### [Link 19: Bash.](https://www.youtube.com/watch?v=I4EWvMFj37g)
+A short introduction video to what the bash shell is. A good video for new Linux users.
+
+### [Link 20: Vi Editor.](https://www.youtube.com/watch?v=pU2k776i2Zw)
+This link contain a video introduction about vi editor.
 <br>
 <hr>

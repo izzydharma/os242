@@ -109,3 +109,14 @@ ZCZC W08 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 30 L05 Quiz related including studying
 ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 30 L05 Quiz related including studying
+ZCZC W09 50 L05 Quiz related including studying
+ZCZC W09 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 10 L10 Assignment #00
+ZCZC W09 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 60 L11 Assignment #01
+ZCZC W09 05 L07 Demo related
+ZCZC W09 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 10 L41 TXT/mylog.txt related
+ZCZC W09 10 L11 Assignment #01
